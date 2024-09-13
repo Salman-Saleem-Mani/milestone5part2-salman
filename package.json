@@ -1,0 +1,11 @@
+{
+  "name": "milestone5part2-salman",
+  "version": "1.0.0",
+  "description": "MILESTONEPROJECT",
+  "main": "script.js",
+  "scripts": {
+    "test": "mine"
+  },
+  "author": "",
+  "license": "ISC"
+}
